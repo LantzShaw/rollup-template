@@ -1,0 +1,19 @@
+{
+  "name": "rollup-template",
+  "version": "1.0.0",
+  "description": "A template for building javascript library with rollup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "rollup"
+  ],
+  "author": "Lantz <lantzshaw@163.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.18.0",
+    "typescript": "^5.4.5"
+  }
+}
